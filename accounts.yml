@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to YCBank accounts related local APIs"
+  message: "Welcome to YCBank accounts related local runtime APIs"
   contactDetails:
     name: "Yogesh Choudhar"
     email: "yogesh@ycbanck.com"
